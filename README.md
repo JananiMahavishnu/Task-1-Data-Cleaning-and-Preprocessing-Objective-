@@ -15,7 +15,7 @@ Files
 
 * `Messy_Employee_dataset.csv` – Original dataset
 * `cleaned_employee_dataset.csv` – Cleaned dataset
-* `Data_Cleaning_Task1.ipynb` – Data cleaning notebook
+* `Data_Cleaning_Task1.py` – Data cleaning notebook
 
 Data Cleaning Tasks Performed
 
